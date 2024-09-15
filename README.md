@@ -1,0 +1,2 @@
+# Softver Microsoft Dynamics NAV
+ 
